@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="batch11-Maven" />
         <module name="com.Batch11Maven" />
       </profile>
     </annotationProcessing>
